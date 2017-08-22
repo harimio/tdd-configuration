@@ -1,5 +1,6 @@
-# tdd-configuration
-Configuration of TDD environment.
+# TDD WORKSHOP CONFIGURATION
+
+Configuration of TDD environment with Karma and Jasmine.
 
 1. Create tdd folder: 
 ```bash
